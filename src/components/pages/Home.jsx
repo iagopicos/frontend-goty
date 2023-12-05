@@ -6,7 +6,6 @@ function Home() {
   return (
     <div className="home">
       World premiere
-      <NomineesPage/>
     </div>
   );
 }
